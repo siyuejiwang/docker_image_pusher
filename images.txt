@@ -1,5 +1,6 @@
 nginx
 jenkins/jenkins:latest
+node:18.16
 ghcr.io/puppeteer/puppeteer:22.14.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
